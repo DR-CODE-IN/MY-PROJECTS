@@ -1,20 +1,32 @@
-# 🌐 My Portfolio Website
+# 🌐 MY PROJECTS
 
-This is my personal portfolio website created using **HTML, CSS, and JavaScript**.  
-I designed and developed it with the help of **AI (Claude)** to improve layout ideas and interactivity.
-
-## ✨ Features
-- Responsive design for all devices  
-- Smooth animations and modern UI  
-- Built with clean and organized code  
-
-## 🧠 Tech Stack
-- HTML5  
-- CSS3  
-- JavaScript  
-- AI-assisted design (Claude)
-
+This is a personal website created using **HTML**, **CSS**, and **JavaScript**,  
+with design assistance from **AI (Claude)**.
 
 ---
 
-Feel free to explore and suggest improvements!
+## ✨ Features
+
+- Responsive and clean layout  
+- Modern front-end design  
+- Organized file structure (HTML, CSS, JS)  
+- AI-assisted creative design ideas  
+
+---
+
+## 🧠 Tech Stack
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- Claude (AI design partner)
+
+---
+
+## 🚀 Live Demo
+👉 [https://dr-code-in.github.io/MY-PROJECTS/](https://dr-code-in.github.io/MY-PROJECTS/)
+
+---
+
+## 📁 Folder Structure
+
